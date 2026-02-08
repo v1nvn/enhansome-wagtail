@@ -1282,7 +1282,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-11-15T10:50:37Z",
+            "last_commit": "2026-02-07T16:58:57Z",
             "owner": "wagtail",
             "repo": "wagtail-transfer",
             "stars": 102
@@ -2620,7 +2620,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-07T04:07:41Z",
+            "last_commit": "2026-02-08T04:31:22Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1064
@@ -2883,7 +2883,7 @@
             "last_commit": "2026-02-06T14:30:48Z",
             "owner": "outreachy",
             "repo": "website",
-            "stars": 292
+            "stars": 293
           }
         },
         {
@@ -2927,10 +2927,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:10:22.778Z",
+    "last_updated": "2026-02-08T04:33:26.873Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Wagtail with stars"
   }
 }

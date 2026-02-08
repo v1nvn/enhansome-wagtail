@@ -1,9 +1,9 @@
-# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,648 | 🐛 67 | 📅 2026-01-28 [<img src="https://cdn.jsdelivr.net/gh/springload/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
+# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,879 | 🐛 68 | 📅 2026-01-28 [<img src="https://cdn.jsdelivr.net/gh/springload/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 10,958 | 🐛 1 | 🌐 Python | 📅 2026-01-29 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 281,771 | 🐛 15 | 🌐 Python | 📅 2026-02-02. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 10,958 | 🐛 1 | 🌐 Python | 📅 2026-01-29 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 281,892 | 🐛 15 | 🌐 Python | 📅 2026-02-07. :snake:*
 
 ## Contents
 
@@ -47,7 +47,7 @@
 ## General resources
 
 * [Official site](https://wagtail.org/)
-* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,117 | 🐛 997 | 🌐 Python | 📅 2026-02-05
+* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,119 | 🐛 1,001 | 🌐 Python | 📅 2026-02-05
 * [Twitter account](https://x.com/wagtailcms)
 * [Roadmap](https://wagtail.org/roadmap/)
 * [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
@@ -167,7 +167,7 @@
 
 ### Translations
 
-* [Wagtail Localize](https://github.com/wagtail/wagtail-localize) ⭐ 246 | 🐛 148 | 🌐 Python | 📅 2026-01-25 - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
+* [Wagtail Localize](https://github.com/wagtail/wagtail-localize) ⭐ 246 | 🐛 149 | 🌐 Python | 📅 2026-01-25 - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
 * [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) ⭐ 155 | 🐛 28 | 🌐 Python | 📅 2026-02-03 - Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation) ⭐ 1,468 | 🐛 136 | 🌐 Python | 📅 2025-12-15 into Wagtail panels system.
 * [wagtailtrans](https://github.com/wagtail/wagtailtrans) ⭐ 102 | 🐛 58 | 🌐 Python | 📅 2021-08-08 - A Wagtail add-on for supporting multilingual sites.
 
@@ -203,7 +203,7 @@
 
 * [Wagtail Headless Preview](https://github.com/torchbox/wagtail-headless-preview) ⭐ 139 | 🐛 6 | 🌐 Python | 📅 2026-01-05 - Previews for headless Wagtail setups
 * [Wagtail Themes](https://github.com/moorinl/wagtail-themes) ⭐ 108 | 🐛 2 | 🌐 Python | 📅 2024-09-02 - Site-specific theme loader for Wagtail.
-* [Wagtail Transfer](https://github.com/wagtail/wagtail-transfer) ⭐ 102 | 🐛 41 | 🌐 Python | 📅 2025-11-15 - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
+* [Wagtail Transfer](https://github.com/wagtail/wagtail-transfer) ⭐ 102 | 🐛 42 | 🌐 Python | 📅 2026-02-07 - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
 * [Wagtail Tag Manager](https://github.com/jberghoef/wagtail-tag-manager) ⭐ 78 | 🐛 17 | 🌐 Python | 📅 2024-02-28 - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
 * [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) ⭐ 56 | 🐛 5 | 🌐 Python | 📅 2025-11-10 – Easier sharing of Wagtail drafts.
 * [Wagtail Content Import](https://github.com/torchbox/wagtail-content-import) ⭐ 37 | 🐛 6 | 🌐 Python | 📅 2026-01-26 - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
@@ -469,7 +469,7 @@
 ### Showcases
 
 * [Made with Wagtail](https://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS.
-* [Contributed apps and website code](https://github.com/wagtail/wagtail/wiki/Contributed-apps-and-website-code) ⭐ 20,117 | 🐛 997 | 🌐 Python | 📅 2026-02-05 - A provisional directory of third-party contributed Wagtail websites and apps.
+* [Contributed apps and website code](https://github.com/wagtail/wagtail/wiki/Contributed-apps-and-website-code) ⭐ 20,119 | 🐛 1,001 | 🌐 Python | 📅 2026-02-05 - A provisional directory of third-party contributed Wagtail websites and apps.
 
 ### Lists
 
@@ -492,9 +492,9 @@
 
 ## Open-source sites
 
-* [bakerydemo](https://github.com/wagtail/bakerydemo) ⭐ 1,064 | 🐛 42 | 🌐 Python | 📅 2026-02-07 – Next generation Wagtail demo, born in Reykjavík.
+* [bakerydemo](https://github.com/wagtail/bakerydemo) ⭐ 1,064 | 🐛 42 | 🌐 Python | 📅 2026-02-08 – Next generation Wagtail demo, born in Reykjavík.
 * [Consumer Financial Protection Bureau](https://github.com/cfpb/consumerfinance.gov) ⭐ 324 | 🐛 47 | 🌐 Python | 📅 2026-02-06 – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
-* [Outreachy website](https://github.com/outreachy/website/) ⭐ 292 | 🐛 202 | 🌐 HTML | 📅 2026-02-06 - Website for Outreachy, who provide internships in open source and open science.
+* [Outreachy website](https://github.com/outreachy/website/) ⭐ 293 | 🐛 202 | 🌐 HTML | 📅 2026-02-06 - Website for Outreachy, who provide internships in open source and open science.
 * [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 106 | 🐛 478 | 🌐 Python | 📅 2026-02-06 – The content management system (CMS) for the new Federal Election Commission website.
 * [Secure the News](https://github.com/freedomofpress/securethenews) ⚠️ Archived – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 * [Made with Wagtail](https://github.com/springload/madewithwagtail) ⭐ 90 | 🐛 31 | 🌐 Python | 📅 2026-01-07 - A showcase of sites and apps made with Wagtail CMS.
