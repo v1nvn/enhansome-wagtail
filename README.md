@@ -1,9 +1,9 @@
-# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,879 | 🐛 68 | 📅 2026-01-28 [<img src="https://cdn.jsdelivr.net/gh/springload/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
+# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,153 | 🐛 68 | 📅 2026-01-28 [<img src="https://cdn.jsdelivr.net/gh/springload/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 10,958 | 🐛 1 | 🌐 Python | 📅 2026-01-29 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 281,892 | 🐛 15 | 🌐 Python | 📅 2026-02-07. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 10,959 | 🐛 1 | 🌐 Python | 📅 2026-01-29 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 282,043 | 🐛 17 | 🌐 Python | 📅 2026-02-07. :snake:*
 
 ## Contents
 
@@ -47,7 +47,7 @@
 ## General resources
 
 * [Official site](https://wagtail.org/)
-* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,119 | 🐛 1,001 | 🌐 Python | 📅 2026-02-05
+* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,124 | 🐛 1,005 | 🌐 Python | 📅 2026-02-05
 * [Twitter account](https://x.com/wagtailcms)
 * [Roadmap](https://wagtail.org/roadmap/)
 * [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
@@ -237,7 +237,7 @@
 
 * [CodeRed CMS](https://github.com/coderedcorp/coderedcms) ⭐ 756 | 🐛 60 | 🌐 Python | 📅 2025-12-16 - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
 * [Wagtail Tailwind & Stimulus blog](https://github.com/AccordBox/wagtail-tailwind-blog) ⭐ 377 | 🐛 35 | 🌐 Python | 📅 2024-01-27 - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
-* [Wagtail Pipit](https://github.com/Frojd/Wagtail-Pipit) ⭐ 251 | 🐛 62 | 🌐 Python | 📅 2026-02-07 – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+* [Wagtail Pipit](https://github.com/Frojd/Wagtail-Pipit) ⭐ 251 | 🐛 62 | 🌐 Python | 📅 2026-02-08 – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 * [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) ⭐ 165 | 🐛 32 | 🌐 Python | 📅 2024-12-04 - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 * [Django Cookiecutter Wagtail](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) ⭐ 75 | 🐛 14 | 🌐 Python | 📅 2023-07-03 – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
 * [State Design System (DSFR) starter](https://github.com/numerique-gouv/sites-faciles) ⭐ 60 | 🐛 32 | 🌐 Python | 📅 2026-02-05 - Wagtail template and starter kit from the French government.
@@ -469,7 +469,7 @@
 ### Showcases
 
 * [Made with Wagtail](https://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS.
-* [Contributed apps and website code](https://github.com/wagtail/wagtail/wiki/Contributed-apps-and-website-code) ⭐ 20,119 | 🐛 1,001 | 🌐 Python | 📅 2026-02-05 - A provisional directory of third-party contributed Wagtail websites and apps.
+* [Contributed apps and website code](https://github.com/wagtail/wagtail/wiki/Contributed-apps-and-website-code) ⭐ 20,124 | 🐛 1,005 | 🌐 Python | 📅 2026-02-05 - A provisional directory of third-party contributed Wagtail websites and apps.
 
 ### Lists
 
@@ -492,9 +492,9 @@
 
 ## Open-source sites
 
-* [bakerydemo](https://github.com/wagtail/bakerydemo) ⭐ 1,064 | 🐛 42 | 🌐 Python | 📅 2026-02-08 – Next generation Wagtail demo, born in Reykjavík.
+* [bakerydemo](https://github.com/wagtail/bakerydemo) ⭐ 1,064 | 🐛 42 | 🌐 Python | 📅 2026-02-09 – Next generation Wagtail demo, born in Reykjavík.
 * [Consumer Financial Protection Bureau](https://github.com/cfpb/consumerfinance.gov) ⭐ 324 | 🐛 47 | 🌐 Python | 📅 2026-02-06 – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
-* [Outreachy website](https://github.com/outreachy/website/) ⭐ 293 | 🐛 202 | 🌐 HTML | 📅 2026-02-06 - Website for Outreachy, who provide internships in open source and open science.
+* [Outreachy website](https://github.com/outreachy/website/) ⭐ 293 | 🐛 202 | 🌐 HTML | 📅 2026-02-08 - Website for Outreachy, who provide internships in open source and open science.
 * [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 106 | 🐛 478 | 🌐 Python | 📅 2026-02-06 – The content management system (CMS) for the new Federal Election Commission website.
 * [Secure the News](https://github.com/freedomofpress/securethenews) ⚠️ Archived – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 * [Made with Wagtail](https://github.com/springload/madewithwagtail) ⭐ 90 | 🐛 31 | 🌐 Python | 📅 2026-01-07 - A showcase of sites and apps made with Wagtail CMS.
