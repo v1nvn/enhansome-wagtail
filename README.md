@@ -1,9 +1,9 @@
-# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 447,703 | 🐛 86 | 📅 2026-03-09 [<img src="https://cdn.jsdelivr.net/gh/springload/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
+# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 448,028 | 🐛 88 | 📅 2026-03-09 [<img src="https://cdn.jsdelivr.net/gh/springload/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,029 | 🐛 0 | 🌐 Python | 📅 2026-03-04 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 288,368 | 🐛 18 | 🌐 Python | 📅 2026-03-21. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,030 | 🐛 1 | 🌐 Python | 📅 2026-03-04 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 288,560 | 🐛 17 | 🌐 Python | 📅 2026-03-22. :snake:*
 
 ## Contents
 
@@ -47,7 +47,7 @@
 ## General resources
 
 * [Official site](https://wagtail.org/)
-* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,246 | 🐛 1,026 | 🌐 Python | 📅 2026-03-20
+* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,248 | 🐛 1,028 | 🌐 Python | 📅 2026-03-20
 * [Twitter account](https://x.com/wagtailcms)
 * [Roadmap](https://wagtail.org/roadmap/)
 * [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
@@ -69,13 +69,13 @@
 
 * [Wagtail TinyMCE](https://github.com/isotoma/wagtailtinymce) ⚠️ Archived - A TinyMCE editor integration for Wagtail.
 * [wagtailembedder](https://github.com/springload/wagtailembedder) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2023-02-08 - Snippets embedder for Wagtail richtext fields.
-* [WagtailDraftail](https://github.com/springload/wagtaildraftail) ⭐ 24 | 🐛 20 | 🌐 Python | 📅 2017-11-08 – Draft.js editor for Wagtail, built upon [Draftail](https://github.com/springload/draftail) ⭐ 631 | 🐛 31 | 🌐 TypeScript | 📅 2025-09-29 and [draftjs\_exporter](https://github.com/springload/draftjs_exporter) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2026-01-24.
+* [WagtailDraftail](https://github.com/springload/wagtaildraftail) ⭐ 24 | 🐛 20 | 🌐 Python | 📅 2017-11-08 – Draft.js editor for Wagtail, built upon [Draftail](https://github.com/springload/draftail) ⭐ 631 | 🐛 31 | 🌐 TypeScript | 📅 2025-09-29 and [draftjs\_exporter](https://github.com/springload/draftjs_exporter) ⭐ 83 | 🐛 1 | 🌐 Python | 📅 2026-03-23.
 * [Wagtail Medium Editor](https://github.com/dperetti/Django-wagtailmedium) ⭐ 18 | 🐛 6 | 🌐 Python | 📅 2021-05-09 - A customizable Medium Editor for Wagtail, with link anchors support.
 * [wagtail-readability](https://github.com/neon-jungle/wagtail-readability) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2016-03-08 - Test how readable the content you enter into Wagtail is.
 * [Wagtail EditorJS](https://github.com/Nigel2392/wagtail_editorjs) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2025-03-06 - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 * [Wagtail Terms](https://github.com/smark-1/wagtailterms) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-03-09 - A plugin to add a glossary terms entity to the Draftail editor.
 * [Wagtail Text Alignment](https://github.com/Nigel2392/wagtail_text_alignment) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-05-13 - Align text, headings and more in your Wagtail richtext editor.
-* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,307 | 🐛 89 | 🌐 TypeScript | 📅 2026-03-21 integration for Wagtail as textfield widget.
+* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,308 | 🐛 89 | 🌐 TypeScript | 📅 2026-03-21 integration for Wagtail as textfield widget.
 * [Wagtail Froala](https://github.com/jaydensmith/wagtailfroala) - Extends Wagtail to use the Froala WYSIWYG editor in RichTextField/RichTextBlock.
 
 ### Widgets
@@ -251,7 +251,7 @@
 
 ### Templates (start command)
 
-* [Wagtail news template](https://github.com/wagtail/news-template) ⭐ 164 | 🐛 54 | 🌐 Python | 📅 2026-03-13
+* [Wagtail news template](https://github.com/wagtail/news-template) ⭐ 164 | 🐛 58 | 🌐 Python | 📅 2026-03-13
 * [Wagtail tutorial template](https://github.com/thibaudcolas/wagtail-tutorial-template) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-01-16
 
 ## Resources
@@ -469,7 +469,7 @@
 ### Showcases
 
 * [Made with Wagtail](https://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS.
-* [Contributed apps and website code](https://github.com/wagtail/wagtail/wiki/Contributed-apps-and-website-code) ⭐ 20,246 | 🐛 1,026 | 🌐 Python | 📅 2026-03-20 - A provisional directory of third-party contributed Wagtail websites and apps.
+* [Contributed apps and website code](https://github.com/wagtail/wagtail/wiki/Contributed-apps-and-website-code) ⭐ 20,248 | 🐛 1,028 | 🌐 Python | 📅 2026-03-20 - A provisional directory of third-party contributed Wagtail websites and apps.
 
 ### Lists
 
@@ -492,9 +492,9 @@
 
 ## Open-source sites
 
-* [bakerydemo](https://github.com/wagtail/bakerydemo) ⭐ 1,077 | 🐛 58 | 🌐 Python | 📅 2026-03-22 – Next generation Wagtail demo, born in Reykjavík.
+* [bakerydemo](https://github.com/wagtail/bakerydemo) ⭐ 1,077 | 🐛 62 | 🌐 Python | 📅 2026-03-23 – Next generation Wagtail demo, born in Reykjavík.
 * [Consumer Financial Protection Bureau](https://github.com/cfpb/consumerfinance.gov) ⭐ 327 | 🐛 44 | 🌐 Python | 📅 2026-03-20 – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
-* [Outreachy website](https://github.com/outreachy/website/) ⭐ 295 | 🐛 207 | 🌐 HTML | 📅 2026-03-20 - Website for Outreachy, who provide internships in open source and open science.
+* [Outreachy website](https://github.com/outreachy/website/) ⭐ 296 | 🐛 207 | 🌐 HTML | 📅 2026-03-20 - Website for Outreachy, who provide internships in open source and open science.
 * [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 106 | 🐛 483 | 🌐 Python | 📅 2026-03-19 – The content management system (CMS) for the new Federal Election Commission website.
 * [Secure the News](https://github.com/freedomofpress/securethenews) ⚠️ Archived – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 * [Made with Wagtail](https://github.com/springload/madewithwagtail) ⭐ 91 | 🐛 31 | 🌐 Python | 📅 2026-01-07 - A showcase of sites and apps made with Wagtail CMS.
