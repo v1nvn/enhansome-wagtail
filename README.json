@@ -775,7 +775,7 @@
             "last_commit": "2026-05-07T08:01:30Z",
             "owner": "wagtail-nest",
             "repo": "wagtail-personalisation",
-            "stars": 128
+            "stars": 129
           }
         }
       ],
@@ -1100,7 +1100,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-11-27T14:11:31Z",
+            "last_commit": "2026-05-12T14:12:57Z",
             "owner": "torchbox",
             "repo": "wagtail-jotform",
             "stars": 4
@@ -1352,7 +1352,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-06T21:17:19Z",
+            "last_commit": "2026-05-12T13:53:00Z",
             "owner": "torchbox",
             "repo": "wagtail-headless-preview",
             "stars": 138
@@ -1384,7 +1384,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-24T15:54:07Z",
+            "last_commit": "2026-05-12T07:05:19Z",
             "owner": "jazzband",
             "repo": "wagtailmenus",
             "stars": 421
@@ -1493,7 +1493,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-01-20T18:18:57Z",
+            "last_commit": "2026-05-12T17:46:09Z",
             "owner": "adinhodovic",
             "repo": "wagtail-resume",
             "stars": 93
@@ -1621,7 +1621,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T17:28:44Z",
+            "last_commit": "2026-05-12T08:34:17Z",
             "owner": "Frojd",
             "repo": "Wagtail-Pipit",
             "stars": 254
@@ -1725,7 +1725,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-02T09:37:34Z",
+            "last_commit": "2026-05-12T16:09:04Z",
             "owner": "engineervix",
             "repo": "cookiecutter-wagtail-vix",
             "stars": 39
@@ -1751,7 +1751,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-07T14:00:52Z",
+            "last_commit": "2026-05-12T17:21:53Z",
             "owner": "numerique-gouv",
             "repo": "sites-conformes",
             "stars": 66
@@ -2612,7 +2612,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T05:37:47Z",
+            "last_commit": "2026-05-13T05:48:14Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1076
@@ -2664,7 +2664,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T05:20:20Z",
+            "last_commit": "2026-05-12T20:10:20Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 106
@@ -2820,7 +2820,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T21:45:22Z",
+            "last_commit": "2026-05-12T20:00:57Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 43
@@ -2833,10 +2833,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-06T20:32:01Z",
+            "last_commit": "2026-05-12T16:47:56Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -2885,7 +2885,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-06T14:08:17Z",
+            "last_commit": "2026-05-12T11:46:11Z",
             "owner": "wagtail",
             "repo": "guide",
             "stars": 35
@@ -2919,7 +2919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:39:16.419Z",
+    "last_updated": "2026-05-13T05:49:47.265Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
