@@ -1,9 +1,9 @@
-# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 466,103 | 🐛 75 | 📅 2026-05-05 [<img src="https://cdn.jsdelivr.net/gh/springload/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
+# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 466,454 | 🐛 75 | 📅 2026-05-05 [<img src="https://cdn.jsdelivr.net/gh/springload/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,099 | 🐛 2 | 🌐 Python | 📅 2026-04-20 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 297,514 | 🐛 17 | 🌐 Python | 📅 2026-05-12. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,102 | 🐛 2 | 🌐 Python | 📅 2026-04-20 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 297,698 | 🐛 18 | 🌐 Python | 📅 2026-05-12. :snake:*
 
 ## Contents
 
@@ -47,7 +47,7 @@
 ## General resources
 
 * [Official site](https://wagtail.org/)
-* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,322 | 🐛 978 | 🌐 Python | 📅 2026-05-13
+* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,323 | 🐛 976 | 🌐 Python | 📅 2026-05-14
 * [Twitter account](https://x.com/wagtailcms)
 * [Roadmap](https://wagtail.org/roadmap/)
 * [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
@@ -75,7 +75,7 @@
 * [Wagtail EditorJS](https://github.com/Nigel2392/wagtail_editorjs) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2025-03-06 - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 * [Wagtail Terms](https://github.com/smark-1/wagtailterms) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-05-11 - A plugin to add a glossary terms entity to the Draftail editor.
 * [Wagtail Text Alignment](https://github.com/Nigel2392/wagtail_text_alignment) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-05-13 - Align text, headings and more in your Wagtail richtext editor.
-* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,412 | 🐛 89 | 🌐 TypeScript | 📅 2026-05-12 integration for Wagtail as textfield widget.
+* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,416 | 🐛 89 | 🌐 TypeScript | 📅 2026-05-12 integration for Wagtail as textfield widget.
 * [Wagtail Froala](https://github.com/jaydensmith/wagtailfroala) - Extends Wagtail to use the Froala WYSIWYG editor in RichTextField/RichTextBlock.
 
 ### Widgets
@@ -120,7 +120,7 @@
 ### E-commerce
 
 * [django-salesman](https://github.com/dinoperovic/django-salesman) ⭐ 422 | 🐛 10 | 🌐 Python | 📅 2025-09-24 - Headless e-commerce framework for Django with Wagtail modeladmin integration.
-* [longclaw](https://github.com/longclawshop/longclaw) ⭐ 404 | 🐛 45 | 🌐 Python | 📅 2023-08-13 - A shop template for Wagtail CMS.
+* [longclaw](https://github.com/longclawshop/longclaw) ⭐ 404 | 🐛 46 | 🌐 Python | 📅 2023-08-13 - A shop template for Wagtail CMS.
 * [django-oscar-wagtail](https://github.com/LabD/django-oscar-wagtail) ⭐ 106 | 🐛 7 | 🌐 Python | 📅 2022-01-28 - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
 * [wagtailinvoices](https://github.com/LiamBrenner/wagtailinvoices) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2017-03-05 - A Wagtail module for creating invoices.
 
@@ -128,7 +128,7 @@
 
 * [wagtail-metadata](https://github.com/neon-jungle/wagtail-metadata) ⭐ 124 | 🐛 4 | 🌐 Python | 📅 2023-09-07 - A tool to assist with metadata for social media and search engines.
 * [Wagtail SEO](https://github.com/coderedcorp/wagtail-seo) ⭐ 90 | 🐛 12 | 🌐 Python | 📅 2025-07-11 - Search engine and social media optimization for Wagtail.
-* [wagtail-schema.org](https://github.com/neon-jungle/wagtail-schema.org) ⭐ 78 | 🐛 4 | 🌐 Python | 📅 2026-02-17 - Schema.org JSON-LD tags for Wagtail sites.
+* [wagtail-schema.org](https://github.com/neon-jungle/wagtail-schema.org) ⭐ 78 | 🐛 5 | 🌐 Python | 📅 2026-02-17 - Schema.org JSON-LD tags for Wagtail sites.
 * [wagtail-metadata-mixin](https://github.com/bashu/wagtail-metadata-mixin) ⭐ 49 | 🐛 3 | 🌐 Python | 📅 2023-06-04 - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
 * [wagtail-opengraph-image-generator](https://github.com/candylabshq/wagtail-opengraph-image-generator) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2023-10-04 - Assists you in automatically creating Open Graph images for your Wagtail pages.
 * [wagtail-meta-preview](https://github.com/Frojd/wagtail-meta-preview) ⭐ 37 | 🐛 6 | 🌐 Python | 📅 2025-03-14 - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
@@ -141,7 +141,7 @@
 
 ### Customer experience
 
-* [Wagtail Personalisation](https://github.com/wagtail-nest/wagtail-personalisation) ⭐ 129 | 🐛 55 | 🌐 Python | 📅 2026-05-07 - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
+* [Wagtail Personalisation](https://github.com/wagtail-nest/wagtail-personalisation) ⭐ 129 | 🐛 56 | 🌐 Python | 📅 2026-05-07 - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
 * [Wagtail Experiments](https://github.com/torchbox/wagtail-experiments) ⭐ 108 | 🐛 9 | 🌐 Python | 📅 2025-12-16 – A/B testing for Wagtail.
 
 ### Security
@@ -152,7 +152,7 @@
 
 ### Media
 
-* [wagtailmedia](https://github.com/torchbox/wagtailmedia) ⭐ 249 | 🐛 27 | 🌐 Python | 📅 2026-04-06 - A Wagtail module for managing video and audio files within the admin.
+* [wagtailmedia](https://github.com/torchbox/wagtailmedia) ⭐ 249 | 🐛 28 | 🌐 Python | 📅 2026-05-14 - A Wagtail module for managing video and audio files within the admin.
 * [Wagtail Alt Generator](https://github.com/marteinn/wagtail-alt-generator) ⭐ 83 | 🐛 7 | 🌐 Python | 📅 2021-07-16 - A module for generating image description and tags based on computer vision.
 * [Rent Free Media](https://github.com/RentFreeMedia/rentfreemedia) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2023-09-02 - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
 * [Wagtail SVG](https://github.com/Aleksi44/wagtailsvg) ⭐ 35 | 🐛 5 | 🌐 Python | 📅 2025-04-19 - A Wagtail module for managing SVG files within the admin.
@@ -168,7 +168,7 @@
 ### Translations
 
 * [Wagtail Localize](https://github.com/wagtail/wagtail-localize) ⭐ 251 | 🐛 165 | 🌐 Python | 📅 2026-04-06 - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
-* [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) ⭐ 154 | 🐛 29 | 🌐 Python | 📅 2026-02-03 - Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation) ⭐ 1,473 | 🐛 128 | 🌐 Python | 📅 2026-04-14 into Wagtail panels system.
+* [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) ⭐ 154 | 🐛 29 | 🌐 Python | 📅 2026-02-03 - Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation) ⭐ 1,474 | 🐛 128 | 🌐 Python | 📅 2026-04-14 into Wagtail panels system.
 * [wagtailtrans](https://github.com/wagtail/wagtailtrans) ⭐ 103 | 🐛 58 | 🌐 Python | 📅 2021-08-08 - A Wagtail add-on for supporting multilingual sites.
 
 ### Forms
@@ -193,7 +193,7 @@
 
 * [wagtail-treemodeladmin](https://github.com/cfpb/wagtail-treemodeladmin) ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2026-04-10 - Page explorer-like navigation of Django model relationships using ModelAdmin.
 * [wagtail-admin-list-controls](https://github.com/ixc/wagtail-admin-list-controls) ⭐ 51 | 🐛 9 | 🌐 Python | 📅 2025-09-05 - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
-* [wagtail-rangefilter](https://github.com/wunderweiss/wagtail-rangefilter) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-01-12 - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
+* [wagtail-rangefilter](https://github.com/wunderweiss/wagtail-rangefilter) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-01-12 - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
 
 ### Asynchronous (tasks)
 
@@ -214,7 +214,7 @@
 
 ### Misc
 
-* [wagtailmenus](https://github.com/jazzband/wagtailmenus) ⭐ 421 | 🐛 21 | 🌐 Python | 📅 2026-05-12 - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
+* [wagtailmenus](https://github.com/jazzband/wagtailmenus) ⭐ 421 | 🐛 22 | 🌐 Python | 📅 2026-05-12 - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
 * [Wagtail Grapple](https://github.com/torchbox/wagtail-grapple) ⭐ 157 | 🐛 60 | 🌐 Python | 📅 2026-04-21 - A Wagtail app that makes building GraphQL endpoints a breeze.
 * [Wagtail Resume](https://github.com/adinhodovic/wagtail-resume) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2026-05-12 – A Wagtail project made to simplify creation of resumes for developers.
 * [Wagtail Cache](https://github.com/coderedcorp/wagtail-cache) ⭐ 91 | 🐛 8 | 🌐 Python | 📅 2025-07-09 - A simple page cache for Wagtail using the Django cache middleware.
@@ -469,7 +469,7 @@
 ### Showcases
 
 * [Made with Wagtail](https://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS.
-* [Contributed apps and website code](https://github.com/wagtail/wagtail/wiki/Contributed-apps-and-website-code) ⭐ 20,322 | 🐛 978 | 🌐 Python | 📅 2026-05-13 - A provisional directory of third-party contributed Wagtail websites and apps.
+* [Contributed apps and website code](https://github.com/wagtail/wagtail/wiki/Contributed-apps-and-website-code) ⭐ 20,323 | 🐛 976 | 🌐 Python | 📅 2026-05-14 - A provisional directory of third-party contributed Wagtail websites and apps.
 
 ### Lists
 
@@ -492,10 +492,10 @@
 
 ## Open-source sites
 
-* [bakerydemo](https://github.com/wagtail/bakerydemo) ⭐ 1,076 | 🐛 46 | 🌐 Python | 📅 2026-05-14 – Next generation Wagtail demo, born in Reykjavík.
-* [Consumer Financial Protection Bureau](https://github.com/cfpb/consumerfinance.gov) ⭐ 327 | 🐛 41 | 🌐 Python | 📅 2026-05-14 – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
-* [Outreachy website](https://github.com/outreachy/website/) ⭐ 296 | 🐛 207 | 🌐 HTML | 📅 2026-04-19 - Website for Outreachy, who provide internships in open source and open science.
-* [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 106 | 🐛 486 | 🌐 Python | 📅 2026-05-13 – The content management system (CMS) for the new Federal Election Commission website.
+* [bakerydemo](https://github.com/wagtail/bakerydemo) ⭐ 1,077 | 🐛 46 | 🌐 Python | 📅 2026-05-15 – Next generation Wagtail demo, born in Reykjavík.
+* [Consumer Financial Protection Bureau](https://github.com/cfpb/consumerfinance.gov) ⭐ 327 | 🐛 39 | 🌐 Python | 📅 2026-05-14 – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
+* [Outreachy website](https://github.com/outreachy/website/) ⭐ 297 | 🐛 207 | 🌐 HTML | 📅 2026-04-19 - Website for Outreachy, who provide internships in open source and open science.
+* [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 106 | 🐛 487 | 🌐 Python | 📅 2026-05-14 – The content management system (CMS) for the new Federal Election Commission website.
 * [Secure the News](https://github.com/freedomofpress/securethenews) ⚠️ Archived – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 * [Made with Wagtail](https://github.com/springload/madewithwagtail) ⭐ 91 | 🐛 31 | 🌐 Python | 📅 2026-01-07 - A showcase of sites and apps made with Wagtail CMS.
 * [WesternFriend](https://github.com/WesternFriend/westernfriend.org) ⭐ 62 | 🐛 23 | 🌐 Python | 📅 2026-04-10 - community website with directory, ecommerce, and online subscription
