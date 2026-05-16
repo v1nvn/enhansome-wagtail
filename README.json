@@ -2612,7 +2612,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-15T05:54:01Z",
+            "last_commit": "2026-05-16T05:26:28Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1077
@@ -2664,7 +2664,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-14T12:40:09Z",
+            "last_commit": "2026-05-15T16:50:19Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 106
@@ -2820,7 +2820,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T18:46:19Z",
+            "last_commit": "2026-05-15T18:48:35Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 44
@@ -2919,7 +2919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:55:35.535Z",
+    "last_updated": "2026-05-16T05:27:52.636Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
