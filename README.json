@@ -1339,7 +1339,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-06T14:29:55Z",
+            "last_commit": "2026-05-18T21:19:46Z",
             "owner": "torchbox",
             "repo": "wagtail-content-import",
             "stars": 37
@@ -1673,7 +1673,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-04T17:47:45Z",
+            "last_commit": "2026-05-18T18:02:44Z",
             "owner": "wagtail",
             "repo": "wagtail-wordpress-import",
             "stars": 55
@@ -1686,7 +1686,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-22T09:42:12Z",
+            "last_commit": "2026-05-18T14:13:45Z",
             "owner": "wagtail",
             "repo": "cookiecutter-wagtail-package",
             "stars": 22
@@ -2612,10 +2612,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-18T06:13:18Z",
+            "last_commit": "2026-05-19T06:06:41Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
-            "stars": 1077
+            "stars": 1078
           }
         },
         {
@@ -2820,7 +2820,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-15T18:48:35Z",
+            "last_commit": "2026-05-18T21:24:01Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 44
@@ -2833,7 +2833,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-14T20:15:38Z",
+            "last_commit": "2026-05-18T19:01:08Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 327
@@ -2919,7 +2919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:15:22.809Z",
+    "last_updated": "2026-05-19T06:09:06.678Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
