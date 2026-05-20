@@ -240,7 +240,7 @@
             "last_commit": "2025-11-09T07:12:48Z",
             "owner": "Frojd",
             "repo": "wagtail-geo-widget",
-            "stars": 149
+            "stars": 150
           }
         },
         {
@@ -743,7 +743,7 @@
             "last_commit": "2025-07-11T16:06:15Z",
             "owner": "coderedcorp",
             "repo": "wagtail-seo",
-            "stars": 90
+            "stars": 91
           }
         }
       ],
@@ -1621,7 +1621,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T08:34:17Z",
+            "last_commit": "2026-05-19T23:06:37Z",
             "owner": "Frojd",
             "repo": "Wagtail-Pipit",
             "stars": 254
@@ -1751,7 +1751,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T17:24:12Z",
+            "last_commit": "2026-05-19T08:45:33Z",
             "owner": "numerique-gouv",
             "repo": "sites-conformes",
             "stars": 66
@@ -2612,7 +2612,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-19T06:06:41Z",
+            "last_commit": "2026-05-20T06:06:36Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1078
@@ -2664,7 +2664,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-17T21:55:46Z",
+            "last_commit": "2026-05-19T18:30:13Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 106
@@ -2833,7 +2833,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-18T19:01:08Z",
+            "last_commit": "2026-05-19T16:32:03Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 327
@@ -2919,7 +2919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:09:06.678Z",
+    "last_updated": "2026-05-20T06:08:46.064Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
