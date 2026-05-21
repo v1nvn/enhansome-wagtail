@@ -817,7 +817,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T04:04:52Z",
+            "last_commit": "2026-05-20T08:12:39Z",
             "owner": "labd",
             "repo": "wagtail-2fa",
             "stars": 95
@@ -1024,7 +1024,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-06T17:57:34Z",
+            "last_commit": "2026-05-20T10:57:31Z",
             "owner": "wagtail",
             "repo": "wagtail-localize",
             "stars": 251
@@ -1786,7 +1786,7 @@
             "last_commit": "2026-03-13T12:33:59Z",
             "owner": "wagtail",
             "repo": "news-template",
-            "stars": 173
+            "stars": 174
           }
         }
       ],
@@ -2612,7 +2612,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-20T06:06:36Z",
+            "last_commit": "2026-05-21T06:09:34Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1078
@@ -2625,7 +2625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T11:24:51Z",
+            "last_commit": "2026-05-20T10:41:41Z",
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9
@@ -2664,7 +2664,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-19T18:30:13Z",
+            "last_commit": "2026-05-20T18:19:29Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 106
@@ -2820,7 +2820,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-18T21:24:01Z",
+            "last_commit": "2026-05-20T18:29:24Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 44
@@ -2833,7 +2833,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-19T16:32:03Z",
+            "last_commit": "2026-05-20T20:40:16Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 327
@@ -2919,7 +2919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:08:46.064Z",
+    "last_updated": "2026-05-21T06:11:18.672Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
