@@ -1621,7 +1621,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-21T19:58:36Z",
+            "last_commit": "2026-05-22T21:16:13Z",
             "owner": "Frojd",
             "repo": "Wagtail-Pipit",
             "stars": 254
@@ -1663,7 +1663,7 @@
             "last_commit": "2025-12-16T22:01:19Z",
             "owner": "coderedcorp",
             "repo": "coderedcms",
-            "stars": 761
+            "stars": 762
           }
         },
         {
@@ -1754,7 +1754,7 @@
             "last_commit": "2026-05-21T08:26:37Z",
             "owner": "numerique-gouv",
             "repo": "sites-conformes",
-            "stars": 66
+            "stars": 65
           }
         }
       ],
@@ -2612,7 +2612,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-22T06:06:06Z",
+            "last_commit": "2026-05-23T05:38:24Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1078
@@ -2625,7 +2625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-21T08:42:29Z",
+            "last_commit": "2026-05-22T15:21:38Z",
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9
@@ -2664,7 +2664,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-21T17:09:59Z",
+            "last_commit": "2026-05-22T15:41:16Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 106
@@ -2833,7 +2833,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-22T01:42:58Z",
+            "last_commit": "2026-05-22T17:58:03Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 327
@@ -2898,7 +2898,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-06T19:08:59Z",
+            "last_commit": "2026-05-22T23:12:51Z",
             "owner": "danlerche",
             "repo": "public-library-wagtailCMS",
             "stars": 4
@@ -2919,7 +2919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-22T06:08:39.072Z",
+    "last_updated": "2026-05-23T05:40:35.309Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
