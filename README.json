@@ -28,7 +28,7 @@
             "last_commit": "2023-12-20T00:35:37Z",
             "owner": "neon-jungle",
             "repo": "wagtailnews",
-            "stars": 76
+            "stars": 75
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-05-03T08:40:02Z",
             "owner": "wagtail-nest",
             "repo": "wagtail-bakery",
-            "stars": 194
+            "stars": 195
           }
         },
         {
@@ -1001,7 +1001,7 @@
             "last_commit": "2026-02-03T20:56:41Z",
             "owner": "infoportugal",
             "repo": "wagtail-modeltranslation",
-            "stars": 154
+            "stars": 155
           }
         },
         {
@@ -1621,7 +1621,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-22T21:16:13Z",
+            "last_commit": "2026-05-23T15:16:49Z",
             "owner": "Frojd",
             "repo": "Wagtail-Pipit",
             "stars": 254
@@ -1663,7 +1663,7 @@
             "last_commit": "2025-12-16T22:01:19Z",
             "owner": "coderedcorp",
             "repo": "coderedcms",
-            "stars": 762
+            "stars": 763
           }
         },
         {
@@ -2612,10 +2612,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-23T05:38:24Z",
+            "last_commit": "2026-05-24T06:00:53Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
-            "stars": 1078
+            "stars": 1079
           }
         },
         {
@@ -2919,7 +2919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:40:35.309Z",
+    "last_updated": "2026-05-24T06:02:17.175Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
