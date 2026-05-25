@@ -1783,7 +1783,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-13T12:33:59Z",
+            "last_commit": "2026-05-24T23:54:10Z",
             "owner": "wagtail",
             "repo": "news-template",
             "stars": 174
@@ -2612,7 +2612,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-24T06:00:53Z",
+            "last_commit": "2026-05-25T06:26:39Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1079
@@ -2919,7 +2919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T06:02:17.175Z",
+    "last_updated": "2026-05-25T06:28:50.715Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
