@@ -1355,7 +1355,7 @@
             "last_commit": "2026-05-13T14:59:45Z",
             "owner": "torchbox",
             "repo": "wagtail-headless-preview",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -1663,7 +1663,7 @@
             "last_commit": "2025-12-16T22:01:19Z",
             "owner": "coderedcorp",
             "repo": "coderedcms",
-            "stars": 763
+            "stars": 764
           }
         },
         {
@@ -1751,7 +1751,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-21T08:26:37Z",
+            "last_commit": "2026-05-27T10:06:21Z",
             "owner": "numerique-gouv",
             "repo": "sites-conformes",
             "stars": 65
@@ -1783,7 +1783,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-24T23:54:10Z",
+            "last_commit": "2026-05-27T09:19:31Z",
             "owner": "wagtail",
             "repo": "news-template",
             "stars": 174
@@ -2612,7 +2612,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-27T06:20:05Z",
+            "last_commit": "2026-05-28T06:11:42Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1079
@@ -2625,7 +2625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-26T16:28:38Z",
+            "last_commit": "2026-05-27T15:12:49Z",
             "owner": "torchbox",
             "repo": "torchbox.com",
             "stars": 9
@@ -2820,7 +2820,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-27T02:22:51Z",
+            "last_commit": "2026-05-28T02:36:23Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 44
@@ -2875,7 +2875,7 @@
             "last_commit": "2026-04-19T19:14:31Z",
             "owner": "outreachy",
             "repo": "website",
-            "stars": 298
+            "stars": 299
           }
         },
         {
@@ -2919,7 +2919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-27T06:21:42.888Z",
+    "last_updated": "2026-05-28T06:13:20.325Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
