@@ -753,7 +753,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-06T05:59:00Z",
+            "last_commit": "2026-06-08T04:04:11Z",
             "owner": "Frojd",
             "repo": "Wagtail-Pipit",
             "stars": 254
@@ -837,10 +837,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T13:00:50Z",
+            "last_commit": "2026-06-07T23:12:36Z",
             "owner": "wagtail",
             "repo": "news-template",
-            "stars": 176
+            "stars": 177
           }
         }
       ],
@@ -1621,7 +1621,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-07T06:23:19Z",
+            "last_commit": "2026-06-08T06:42:14Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1078
@@ -1686,7 +1686,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T13:29:35Z",
+            "last_commit": "2026-06-07T11:42:36Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 44
@@ -1772,7 +1772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:25:20.932Z",
+    "last_updated": "2026-06-08T06:44:03.221Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
