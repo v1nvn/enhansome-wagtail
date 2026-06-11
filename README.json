@@ -10,8 +10,8 @@
       "items": [
         {
           "children": [],
-          "description": "a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box!",
-          "title": "CodeRed CMS",
+          "description": "Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.",
+          "title": "Wagtail CRX (CodeRed Extensions)",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -23,7 +23,7 @@
         },
         {
           "children": [],
-          "description": "Puput is a powerful and simple Django app to manage a blog. It uses the awesome Wagtail CMS as content management system.",
+          "description": "A Django blog app implemented in Wagtail.",
           "title": "Puput",
           "repo_info": {
             "archived": false,
@@ -113,7 +113,7 @@
         },
         {
           "children": [],
-          "description": "Markdown fields and blocks for Wagtail.",
+          "description": "Markdown support for Wagtail.",
           "title": "wagtail-markdown",
           "repo_info": {
             "archived": false,
@@ -165,8 +165,8 @@
         },
         {
           "children": [],
-          "description": "Introduces panels for selecting colors in Wagtail.",
-          "title": "wagtail-color-panel",
+          "description": "A package that adds new panels for selecting colors, works both on regular page fields and stream field.",
+          "title": "Wagtail-Color-Panel",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -178,7 +178,7 @@
         },
         {
           "children": [],
-          "description": "An IDE-like code editor right in your Wagtail admin.",
+          "description": "Ace Editor right in your Wagtail admin.",
           "title": "Wagtail Ace Editor",
           "repo_info": {
             "archived": false,
@@ -191,8 +191,8 @@
         },
         {
           "children": [],
-          "description": "A CodeMirror 6-powered HTML editor for Wagtail with syntax highlighting, Emmet support, and dark mode.",
-          "title": "Wagtail HTML Editor",
+          "description": "Enhanced HTML editor block for Wagtail CMS with CodeMirror 6, syntax highlighting, Emmet support, and fullscreen mode.",
+          "title": "wagtail-html-editor",
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
@@ -242,7 +242,7 @@
       "items": [
         {
           "children": [],
-          "description": "Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.",
+          "description": "Wagtail Meta Preview provides panels for previewing Facebook sharing, Twitter sharing and Google search results in the Wagtail admin.",
           "title": "wagtail-meta-preview",
           "repo_info": {
             "archived": false,
@@ -351,7 +351,7 @@
       "items": [
         {
           "children": [],
-          "description": "A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.",
+          "description": "Translation plugin for Wagtail CMS.",
           "title": "Wagtail Localize",
           "repo_info": {
             "archived": false,
@@ -401,8 +401,8 @@
         },
         {
           "children": [],
-          "description": "Embeddable Jotform forms for Wagtail pages.",
-          "title": "Wagtail JotForm",
+          "description": "A plugin for using jotforms in wagtail.",
+          "title": "Wagtail Jotform",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -459,7 +459,7 @@
         },
         {
           "children": [],
-          "description": "A plugin to assist with accessibility when developing in Wagtail.",
+          "description": "Accessibility content checks for Wagtail websites.",
           "title": "Wagtail Accessibility",
           "repo_info": {
             "archived": false,
@@ -505,7 +505,7 @@
         {
           "children": [],
           "description": "Integrates django-admin-rangefilter into Wagtail's ModelAdmin.",
-          "title": "wagtail-rangefilter",
+          "title": "Wagtail Rangefilter",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -517,8 +517,8 @@
         },
         {
           "children": [],
-          "description": "Page explorer-like navigation of Django model relationships using ModelAdmin.",
-          "title": "wagtail-treemodeladmin",
+          "description": "An extension for Wagtail's ModelAdmin for a page explorer-like navigation of Django model relationships.",
+          "title": "Wagtail-TreeModelAdmin",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -685,7 +685,7 @@
         },
         {
           "children": [],
-          "description": "Will place pages in a trash can from where they can be restored instead of being permanently deleted.",
+          "description": "Instead of deleting pages when pressing delete, pages will get thrown into the \"Trash Can\".",
           "title": "Wagtail Trash",
           "repo_info": {
             "archived": false,
@@ -698,8 +698,8 @@
         },
         {
           "children": [],
-          "description": "Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.",
-          "title": "Wagtail PDF View",
+          "description": "PDF rendering views for the Wagtail CMS.",
+          "title": "wagtail-pdf-view",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -748,8 +748,8 @@
       "items": [
         {
           "children": [],
-          "description": "Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.",
-          "title": "Wagtail Pipit",
+          "description": "Pipit is a Wagtail CMS boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.",
+          "title": "Pipit",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -787,7 +787,7 @@
         },
         {
           "children": [],
-          "description": "A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.",
+          "description": "a minimal, batteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.",
           "title": "cookiecutter-wagtail-vix",
           "repo_info": {
             "archived": false,
@@ -795,17 +795,17 @@
             "last_commit": "2026-06-03T20:01:17Z",
             "owner": "engineervix",
             "repo": "cookiecutter-wagtail-vix",
-            "stars": 39
+            "stars": 40
           }
         },
         {
           "children": [],
-          "description": "Wagtail template and starter kit from the French government.",
-          "title": "Sites Conformes: French Design System (DSFR) starter",
+          "description": "Gestionnaire de contenu permettant de créer et gérer un site internet basé sur le Système de design de l'État, accessible et sécurisé. Basé sur Wagtail CMS.",
+          "title": "Sites Conformes",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-10T05:57:45Z",
+            "last_commit": "2026-06-10T13:44:29Z",
             "owner": "numerique-gouv",
             "repo": "sites-conformes",
             "stars": 65
@@ -819,8 +819,8 @@
       "items": [
         {
           "children": [],
-          "description": null,
-          "title": "Wagtail tutorial template",
+          "description": "A Wagtail project starter template – with the solution to Wagtail's official Your first Wagtail site tutorial.",
+          "title": "Wagtail template: Your first Wagtail site",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -832,15 +832,15 @@
         },
         {
           "children": [],
-          "description": null,
-          "title": "Wagtail news template",
+          "description": "A Wagtail template for a news site.",
+          "title": "Wagtail News Template",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-06-09T01:30:33Z",
             "owner": "wagtail",
             "repo": "news-template",
-            "stars": 177
+            "stars": 178
           }
         }
       ],
@@ -1617,11 +1617,11 @@
         {
           "children": [],
           "description": "Next generation Wagtail demo, born in Reykjavík.",
-          "title": "bakerydemo",
+          "title": "Wagtail demo project",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-10T06:23:02Z",
+            "last_commit": "2026-06-11T06:48:08Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
             "stars": 1078
@@ -1629,8 +1629,8 @@
         },
         {
           "children": [],
-          "description": "Wagtail build of Torchbox.com.",
-          "title": "torchbox.com",
+          "description": "Torchbox website 2024 incarnation.",
+          "title": "Torchbox.com on Wagtail",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -1642,7 +1642,7 @@
         },
         {
           "children": [],
-          "description": "A showcase of sites and apps made with Wagtail CMS.",
+          "description": "A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system.",
           "title": "Made with Wagtail",
           "repo_info": {
             "archived": false,
@@ -1660,7 +1660,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-09T21:38:51Z",
+            "last_commit": "2026-06-10T11:42:35Z",
             "owner": "fecgov",
             "repo": "fec-cms",
             "stars": 107
@@ -1668,8 +1668,8 @@
         },
         {
           "children": [],
-          "description": "Bow Valley SPCA website.",
-          "title": "BVSPCA",
+          "description": "Wagtail/Django based website of the Bow Valley SPCA.",
+          "title": "Bow Valley SPCA Website",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -1686,7 +1686,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-09T15:28:55Z",
+            "last_commit": "2026-06-10T20:48:49Z",
             "owner": "freedomofpress",
             "repo": "securedrop.org",
             "stars": 44
@@ -1694,12 +1694,12 @@
         },
         {
           "children": [],
-          "description": "The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.",
-          "title": "Consumer Financial Protection Bureau",
+          "description": "Django project protecting American consumers.",
+          "title": "consumerfinance.gov",
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-09T20:53:05Z",
+            "last_commit": "2026-06-10T18:28:24Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 329
@@ -1707,8 +1707,8 @@
         },
         {
           "children": [],
-          "description": "community website with directory, ecommerce, and online subscription",
-          "title": "WesternFriend",
+          "description": "A website for Western Friend (westernfriend.org), a Quaker publication that provides resources and support for Quaker communities and individuals seeking to live out their faith in the world. Western Friend is part of the Religious Society of Friends.",
+          "title": "Western Friend website",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -1720,7 +1720,7 @@
         },
         {
           "children": [],
-          "description": "Website for Outreachy, who provide internships in open source and open science.",
+          "description": "Code for the Outreachy website, based on Python, Django, and Bootstrap.",
           "title": "Outreachy website",
           "repo_info": {
             "archived": false,
@@ -1746,7 +1746,7 @@
         },
         {
           "children": [],
-          "description": "An example public library website, originally created for the Penticton Public Library in Penticton, British Columbia, Canada.",
+          "description": "This is an example public library website using wagtail CMS.",
           "title": "Penticon Public Library",
           "repo_info": {
             "archived": false,
@@ -1761,7 +1761,7 @@
       "title": "Open-source sites"
     },
     {
-      "description": "Contributions are always welcome!\nPlease read the contribution guidelines first.",
+      "description": "Contributions are always welcome! Please read the contribution guidelines first.",
       "items": [],
       "title": "Contribute"
     },
@@ -1772,7 +1772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-10T06:25:01.524Z",
+    "last_updated": "2026-06-11T06:49:57.051Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
