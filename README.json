@@ -121,7 +121,7 @@
             "last_commit": "2026-06-02T21:35:03Z",
             "owner": "torchbox",
             "repo": "wagtail-markdown",
-            "stars": 219
+            "stars": 220
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2026-06-09T18:14:48Z",
             "owner": "Frojd",
             "repo": "Wagtail-Pipit",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -1621,10 +1621,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-12T06:40:33Z",
+            "last_commit": "2026-06-13T06:16:12Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
-            "stars": 1079
+            "stars": 1080
           }
         },
         {
@@ -1699,7 +1699,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-10T18:28:24Z",
+            "last_commit": "2026-06-12T20:47:35Z",
             "owner": "cfpb",
             "repo": "consumerfinance.gov",
             "stars": 329
@@ -1772,7 +1772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:42:48.867Z",
+    "last_updated": "2026-06-13T06:17:51.179Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,
