@@ -580,7 +580,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-03T18:20:16Z",
+            "last_commit": "2026-06-13T10:48:45Z",
             "owner": "torchbox",
             "repo": "wagtail-headless-preview",
             "stars": 139
@@ -1621,10 +1621,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-13T06:16:12Z",
+            "last_commit": "2026-06-14T06:39:24Z",
             "owner": "wagtail",
             "repo": "bakerydemo",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -1772,7 +1772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-13T06:17:51.179Z",
+    "last_updated": "2026-06-14T06:41:44.116Z",
     "original_repository": "springload/awesome-wagtail",
     "source_repository": "v1nvn/enhansome-wagtail",
     "source_repository_description": null,

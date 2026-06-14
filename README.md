@@ -1,9 +1,9 @@
-# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 475,257 | 🐛 81 | 📅 2026-06-02 [<img src="https://cdn.jsdelivr.net/gh/wagtail/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
+# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 475,580 | 🐛 81 | 📅 2026-06-02 [<img src="https://cdn.jsdelivr.net/gh/wagtail/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/) with stars
 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,133 | 🐛 3 | 🌐 Python | 📅 2026-05-26 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 302,642 | 🐛 18 | 🌐 Python | 📅 2026-06-12. :snake:*
+*You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) ⭐ 11,133 | 🐛 2 | 🌐 Python | 📅 2026-05-26 and [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 302,800 | 🐛 19 | 🌐 Python | 📅 2026-06-12. :snake:*
 
 ## Contents
 
@@ -43,7 +43,7 @@
 ## General resources
 
 * [Official site](https://wagtail.org/)
-* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,360 | 🐛 978 | 🌐 Python | 📅 2026-06-10
+* [GitHub repository](https://github.com/wagtail/wagtail) ⭐ 20,362 | 🐛 978 | 🌐 Python | 📅 2026-06-10
 * [Project roadmap](https://wagtail.org/roadmap/)
 
 ## Apps
@@ -57,7 +57,7 @@
 
 * [Wagtail EditorJS](https://github.com/Nigel2392/wagtail_editorjs) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2025-03-06 - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 * [Wagtail Terms](https://github.com/smark-1/wagtailterms) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-06-08 - A plugin to add a glossary terms entity to the Draftail editor.
-* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,526 | 🐛 89 | 🌐 TypeScript | 📅 2026-06-12 integration for Wagtail as textfield widget.
+* [wagtailmdx](https://github.com/julinodev/wagtailmdx) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-27 - A [MDXEditor](https://github.com/mdx-editor/editor) ⭐ 3,527 | 🐛 89 | 🌐 TypeScript | 📅 2026-06-12 integration for Wagtail as textfield widget.
 
 ### Widgets
 
@@ -135,7 +135,7 @@
 
 ### Content Management
 
-* [Wagtail Headless Preview](https://github.com/torchbox/wagtail-headless-preview) ⭐ 139 | 🐛 7 | 🌐 Python | 📅 2026-06-03 - Previews for headless Wagtail setups
+* [Wagtail Headless Preview](https://github.com/torchbox/wagtail-headless-preview) ⭐ 139 | 🐛 6 | 🌐 Python | 📅 2026-06-13 - Previews for headless Wagtail setups
 * [Wagtail Transfer](https://github.com/wagtail/wagtail-transfer) ⭐ 110 | 🐛 44 | 🌐 Python | 📅 2026-02-07 - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
 * [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) ⭐ 56 | 🐛 5 | 🌐 Python | 📅 2026-04-24 – Easier sharing of Wagtail drafts.
 * [Wagtail Content Import](https://github.com/torchbox/wagtail-content-import) ⭐ 37 | 🐛 8 | 🌐 Python | 📅 2026-06-08 - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
@@ -378,7 +378,7 @@
 
 ## Open-source sites
 
-* [Wagtail demo project](https://github.com/wagtail/bakerydemo) ⭐ 1,080 | 🐛 58 | 🌐 Python | 📅 2026-06-13 – Next generation Wagtail demo, born in Reykjavík.
+* [Wagtail demo project](https://github.com/wagtail/bakerydemo) ⭐ 1,081 | 🐛 58 | 🌐 Python | 📅 2026-06-14 – Next generation Wagtail demo, born in Reykjavík.
 * [consumerfinance.gov](https://github.com/cfpb/consumerfinance.gov) ⭐ 329 | 🐛 40 | 🌐 Python | 📅 2026-06-12 – Django project protecting American consumers.
 * [Outreachy website](https://github.com/outreachy/website) ⭐ 298 | 🐛 208 | 🌐 HTML | 📅 2026-06-02 - Code for the Outreachy website, based on Python, Django, and Bootstrap.
 * [Federal Election Commission](https://github.com/fecgov/fec-cms) ⭐ 107 | 🐛 498 | 🌐 Python | 📅 2026-06-11 – The content management system (CMS) for the new Federal Election Commission website.
